@@ -5,7 +5,7 @@ using System.Windows;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("KanColleViewer!")]
+[assembly: AssemblyTitle("KanColleViewer! SA")]
 [assembly: AssemblyDescription("提督業も忙しい！")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Smooth and Flat")]
@@ -21,4 +21,4 @@ using System.Windows;
 	ResourceDictionaryLocation.None,
 	ResourceDictionaryLocation.SourceAssembly)]
 
-[assembly: AssemblyVersion("4.2.10.1")]
+[assembly: AssemblyVersion("4.2.11.0")]
